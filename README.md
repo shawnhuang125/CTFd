@@ -1,6 +1,4 @@
-# CTFd
-## AGENDA
-- MyFirstSecurity CTF
+# MyFirstSecurity CTF
 ### 隱寫術101
 - STEG(必) | sCTF 2016 Q1 : banana-boy-20(必) | ABCTF 2016 : just-open-it(必) | CSAW Quals CTF 2013: Black & White | PicoCTF_2019-What Lies Within |
 ### 編碼101
@@ -11,7 +9,3 @@
 - Linux1 | Linux2 | Linux3 | Linux4 | linux5 |
 ### Linux102
 - Linux6 | Linux7 | Linux8 | Linux9 | linux10 |
-- Pwn CTF
-- Reverse CTF
-- Web CTF
-- SecurityFocusOnline CTF

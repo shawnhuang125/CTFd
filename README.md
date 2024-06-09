@@ -8,7 +8,7 @@
 ### Linux101
 - Linux1[連結](https://youtu.be/OEXSagAzeDY) | Linux2[連結](https://youtu.be/X8YYzgQEOAg) | Linux3[連結](https://youtu.be/Br0fJjiAjeE) | Linux4[連結](https://youtu.be/9eh17zdhUhs) | linux5[連結](https://youtu.be/_Etuc9eUaYU) |
 ### Linux102
-- Linux6[連結](https://youtu.be/VFTm-X8M2Ww) | Linux7[連結[]()](https://youtu.be/SEMHKWE43QM) | Linux8[連結](https://youtu.be/4tWToCX69Y4) | Linux9[連結](https://youtu.be/yGaH4aOApMw) | linux10[連結](https://youtu.be/KgXjH7v8_M0) |
+- Linux6[連結](https://youtu.be/VFTm-X8M2Ww) | Linux7[連結](https://youtu.be/SEMHKWE43QM) | Linux8[連結](https://youtu.be/4tWToCX69Y4) | Linux9[連結](https://youtu.be/yGaH4aOApMw) | linux10[連結](https://youtu.be/KgXjH7v8_M0) |
 ### Web101
 - Web-1:source code[連結](https://youtu.be/mdJY2aE2t7s) | web-2: Easy_Robots.txt[連結](https://youtu.be/yVJd9INGxO4) | web-3:Robots.txt[連結](https://youtu.be/8y-8QBPgIec) | web-4:Curl-1[連結](https://youtu.be/uscwNmfDxwU) | web-5:HTTP method[連結](https://youtu.be/Dvk8zXLfwas) |
 ### Crypto101

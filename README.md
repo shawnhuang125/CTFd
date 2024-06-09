@@ -2,7 +2,7 @@
 ### 隱寫術101
 - STEG(必)[連結]() | sCTF 2016 Q1 : banana-boy-20(必)[連結]() | ABCTF 2016 : just-open-it(必)[連結]() | CSAW Quals CTF 2013: Black & White[連結]() | PicoCTF_2019-What Lies Within[連結]() |
 ### 編碼101
-- base64[連結]() | Ascii[連結]() | base32[連結]() | Morse Code[連結]() | 第一堂base64編碼[連結]() |
+- base64[連結]() | Ascii[連結]() | base32[連結]() | Morse Code[連結]() | 第一堂base64編碼[連結](https://youtu.be/4UF_FPbl5dY) |
 ### Network101
 - woodstock-1-10[連結](https://youtu.be/f2R6P6FKSNA) | Networking 1[連結]() | Special Agent User(MUST)[連結](https://youtu.be/Ia1Bh6wiRDs) | Shark on wire 1[連結]() | Network Forensic[連結]() |
 ### Linux101
